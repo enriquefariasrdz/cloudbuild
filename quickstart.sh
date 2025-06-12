@@ -1,1 +1,1 @@
-echo "Hello world. I am Enrique. The time is $(date)"
+echo 'Hello world. I am Enrique. The time is $(date "+%T")'
